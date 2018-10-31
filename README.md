@@ -1,4 +1,14 @@
-## Project Setup
+## One Game a Month
+
+This repo contains all my games I've created for the one game a month challenge and some extra stuff.
+
+Available Games:
+- [2018 - Semptember](https://enc-ee.github.io/onegameamonth/2018-09/)
+- [2018 - October](https://enc-ee.github.io/onegameamonth/2018-10/)
+
+## _start
+
+The `_start` folder contains a template I use for my games.
 
 Simply clone the _start folder for a new project.
 
