@@ -15,6 +15,7 @@ Otherwise start from scratch:
 1. `npm install --save-dev clean-webpack-plugin`
 1. `npm install --save-dev webpack-dev-server`
 1. `npm install --save-dev typescript ts-loader`
+1. `npm install --save-dev html-webpack-externals-plugin`
 1. add tsconfig.json
 1. add src/index.ts
 1. add webpack.config.json
