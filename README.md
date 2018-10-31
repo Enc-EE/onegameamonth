@@ -3,8 +3,8 @@
 This repo contains all my games I've created for the one game a month challenge and some extra stuff.
 
 Available Games:
-- [2018 - Semptember](https://enc-ee.github.io/onegameamonth/2018-09/)
-- [2018 - October](https://enc-ee.github.io/onegameamonth/2018-10/)
+- [2018 - Semptember - Blade](https://enc-ee.github.io/onegameamonth/2018-09/)
+- [2018 - October - Snakee](https://enc-ee.github.io/onegameamonth/2018-10/)
 
 ## _start
 
